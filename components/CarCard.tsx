@@ -72,4 +72,4 @@ const CarCard = ({ car }: CarCardProps) => {
 };
 
 export default CarCard;
-no
+no yes
