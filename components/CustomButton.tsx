@@ -26,7 +26,3 @@ const Button = ({ isDisabled, btnType, containerStyles, textStyles, title, right
 );
 
 export default Button;
-
-yoo
-nooo
-whyyy
