@@ -1,4 +1,5 @@
-7import Image from "next/image";
+2nd
+  import Image from "next/image";
 import Link from "next/link";
 
 import { footerLinks } from "@constants";
