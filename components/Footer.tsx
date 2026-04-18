@@ -1,4 +1,4 @@
-//1234567890012345678912345678
+//12345678900123456789123456789
 
   import Image from "next/image";
 import Link from "next/link";
